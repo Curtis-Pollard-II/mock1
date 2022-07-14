@@ -1,0 +1,16 @@
+.hero-img {
+    background-image: url(https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Z3V5JTIwc3R5bGluZyUyMHdpdGglMjBwZW4lMjBsYXB0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+    background-position: center;
+    padding-top: 10em;
+    padding-bottom: 10em;
+}
+
+.anti-hero-img {
+    background-image: url(https://th.bing.com/th/id/R.d756f5179059d84034a7e7767e5541ad?rik=38aKjoD5ez71pQ&riu=http%3a%2f%2fs3.amazonaws.com%2fimages.seroundtable.com%2fgoogle-green-map-ping-ad-1558600708.jpg&ehk=uocwcM%2bYZchERtD%2bsQcIVdjyZtjs%2fhNEQCnep49AJr8%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1);
+    background-size: cover;
+    background-position: center;
+    padding-top: 10em;
+    padding-bottom: 10em;
+
+}
